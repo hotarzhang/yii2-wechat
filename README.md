@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist hoter/yii2-wechat "*"
+php composer.phar require --prefer-dist hoter/yii2-wechat:dev-master
 ```
 
 or add
 
 ```
-"hoter/yii2-wechat": "*"
+"hoter/yii2-wechat": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
