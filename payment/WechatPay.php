@@ -17,7 +17,7 @@ namespace hoter\wechat\payment;
  *		'appid' 	=> 	'wx8888888888888888',		//填写微信分配的公众账号ID
  *		'mch_id'	=>	'1900000109',				//填写微信支付分配的商户号
  *		'notify_url'=>	'http://www.baidu.com/',	//填写微信支付结果回调地址
- *		'key'		=>	'5K8264ILTKC'				//填写微信商户支付密钥
+ *		'key'		=>	'keykeykeykeykey'				//填写微信商户支付密钥
  *	);
  *	统一下单方法
  *	$WechatAppPay = new wechatAppPay($options);
